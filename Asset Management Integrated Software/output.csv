@@ -1,0 +1,375 @@
+Name of Bank,Tenure,Interest
+SBI Fixed Deposit,7 days to 45 days,2.90%
+SBI Fixed Deposit,46 days to 179 days,3.90%
+SBI Fixed Deposit,180 days to 210 days,4.40%
+SBI Fixed Deposit,211 days to 364 days,4.40%
+SBI Fixed Deposit,1 year to 1 year 364 days,5.10%
+SBI Fixed Deposit,2 years to 2 years 364 days,5.10%
+SBI Fixed Deposit,3 years to 4 years 364 days,5.30%
+SBI Fixed Deposit,5 years to 10 years,5.40%
+HDFC Bank Fixed Deposit,7 days to 14 days,3.00%
+HDFC Bank Fixed Deposit,15 days to 29 days,3.50%
+HDFC Bank Fixed Deposit,30 days to 45 days,4.00%
+HDFC Bank Fixed Deposit,46 days to 90 days,4.50%
+HDFC Bank Fixed Deposit,91 days to 6 months,4.50%
+HDFC Bank Fixed Deposit,6 months 1 day to 9 months,5.00%
+HDFC Bank Fixed Deposit,9 months 1 day to 1 year,5.25%
+HDFC Bank Fixed Deposit,1 year,5.60%
+HDFC Bank Fixed Deposit,1 year 1 day to 2 years,5.60%
+HDFC Bank Fixed Deposit,2 years 1 day to 3 years,5.75%
+ICICI Bank Fixed Deposit,7 days to 14 days,3.25%
+ICICI Bank Fixed Deposit,15 days to 29 days,3.50%
+ICICI Bank Fixed Deposit,30 days to 45 days,3.75%
+ICICI Bank Fixed Deposit,46 days to 60 days,4.25%
+ICICI Bank Fixed Deposit,61 days to 184 days,4.25%
+ICICI Bank Fixed Deposit,185 days to 289 days,4.75%
+ICICI Bank Fixed Deposit,290 days to 364 days,5.25%
+ICICI Bank Fixed Deposit,390 days to 17 months 29 days,5.55%
+ICICI Bank Fixed Deposit,18 months to 2 years,5.75%
+ICICI Bank Fixed Deposit,1 year to 389 days,5.55%
+Axis Bank,7 days to 14 days,3.25%
+Axis Bank,15 days to 29 days,3.50%
+Axis Bank,30 days to 45 days,4.00%
+Axis Bank,46 days to 60 days,4.50%
+Axis Bank,61 days to 3 months,4.50%
+Axis Bank,90 days to 119 days,4.50%
+Axis Bank,4 months to 5 months,4.50%
+Axis Bank,5 months to 6 months,4.50%
+Axis Bank,6 months to 8 months 29 days,5.00%
+Axis Bank,9 months to 11 months 25 days,5.25%
+Kotak Bank,7 days to 14 days,3.00%
+Kotak Bank,15 days to 30 days,3.50%
+Kotak Bank,31 days to 45 days,3.50%
+Kotak Bank,46 days to 90 days,4.25%
+Kotak Bank,91 days to 120 days,4.50%
+Kotak Bank,121 days to 179 days,4.50%
+Kotak Bank,180 days,5.00%
+Kotak Bank,181 days to 269 days,5.00%
+Kotak Bank,270 days,5.00%
+Kotak Bank,271 days to 363 days,5.25%
+IDFC First Bank,7 days to 14 days,4.00%
+IDFC First Bank,15 days to 29 days,5.00%
+IDFC First Bank,30 days to 45 days,6.25%
+IDFC First Bank,46 days to 90 days,6.50%
+IDFC First Bank,91 days to 180 days,6.75%
+IDFC First Bank,181 days to 364 days,7.00%
+IDFC First Bank,500 days,7.25%
+IDFC First Bank,501 days to 2 years,7.25%
+IDFC First Bank,1 year to 499 days,7.25%
+IDFC First Bank,2 years 1 day to 5 years,7.25%
+Bank of Baroda,7 days to 14 days,3.30%
+Bank of Baroda,15 days to 45 days,3.30%
+Bank of Baroda,46 days to 90 days,4.30%
+Bank of Baroda,91 days to 180 days,4.30%
+Bank of Baroda,181 days to 270 days,4.85%
+Bank of Baroda,271 days to 364 days,4.85%
+Bank of Baroda,400 days to 2 years,5.55%
+Bank of Baroda,1 year,5.55%
+Bank of Baroda,1 year 1 day to 400 days,5.55%
+Bank of Baroda,2 years 1 day to 3 years,5.55%
+Citibank,7 days to 14 days,2.75%
+Citibank,15 days to 25 days,3.00%
+Citibank,26 days to 35 days,3.00%
+Citibank,36 days to 45 days,4.00%
+Citibank,46 days to 90 days,4.00%
+Citibank,91 days to 120 days,3.00%
+Citibank,121 days to 150 days,3.00%
+Citibank,151 days to 180 days,3.00%
+Citibank,181 days to 270 days,3.00%
+Citibank,271 days to 400 days,3.00%
+IDBI Bank,7 days to 14 days,3.10%
+IDBI Bank,15 days to 30 days,4.00%
+IDBI Bank,31 days to 45 days,4.25%
+IDBI Bank,46 days to 60 days,4.75%
+IDBI Bank,61 days to 90 days,4.75%
+IDBI Bank,91 days to 6 months,4.75%
+IDBI Bank,271 days to 364 days,5.50%
+IDBI Bank,6 months 1 day to 270 days,5.25%
+IDBI Bank,1 year,5.80%
+IDBI Bank,1 year to 2 years,5.75%
+Indian Bank,7 days to 14 days,3.75%
+Indian Bank,15 days to 29 days,3.75%
+Indian Bank,30 days to 45 days,3.75%
+Indian Bank,46 days to 90 days,3.75%
+Indian Bank,91 days to 180 days,4.75%
+Indian Bank,181 days to 269 days,5.25%
+Indian Bank,9 months to 364 days,5.25%
+Indian Bank,1 year,5.75%
+Indian Bank,1 year 1 day to 1 year 364 days,5.65%
+Indian Bank,2 years to 4 years 364 days,5.65%
+Indian Overseas Bank,7 days to 45 days,4.50%
+Indian Overseas Bank,46 days to 90 days,4.60%
+Indian Overseas Bank,91 days to 120 days,4.85%
+Indian Overseas Bank,121 days to 179 days,5.10%
+Indian Overseas Bank,180 days to 269 days,5.35%
+Indian Overseas Bank,270 days to 364 days,5.60%
+Indian Overseas Bank,444 days,5.75%
+Indian Overseas Bank,1 year 1 day to 1 year 364 days,5.70%
+Indian Overseas Bank,2 years to 2 years 364 days,5.70%
+Indian Overseas Bank,3 years to 10 years,5.70%
+OBC,to 444 years,5.75%
+OBC,to 555 years,5.75%
+OBC,7 days to 14 days,3.50%
+OBC,15 days to 29 days,3.50%
+OBC,30 days to 45 days,3.50%
+OBC,46 days to 90 days,4.50%
+OBC,91 days to 179 days,4.50%
+OBC,180 days to 270 days,5.00%
+OBC,271 days to 364 days,5.25%
+OBC,333 days,5.40%
+PNB,7 days to 14 days,3.50%
+PNB,15 days to 29 days,3.50%
+PNB,30 days to 45 days,3.50%
+PNB,46 days to 90 days,4.50%
+PNB,91 days to 179 days,4.50%
+PNB,180 days to 270 days,5.00%
+PNB,271 days to 364 days,5.25%
+PNB,333 days,5.40%
+PNB,444 days,5.75%
+PNB,555 days,5.75%
+HDFC,33 months,7.08%
+HDFC,66 months,7.08%
+PNB Housing Finance,to 120 months,7.50%
+PNB Housing Finance,12 months to 23 months,7.20%
+PNB Housing Finance,24 months to 35 months,7.30%
+PNB Housing Finance,36 months to 47 months,7.60%
+PNB Housing Finance,48 months to 59 months,7.70%
+PNB Housing Finance,60 months to 71 months,7.75%
+PNB Housing Finance,72 months to 84 months,7.75%
+Allahabad Bank,7 days to 14 days,3.75%
+Allahabad Bank,15 days to 29 days,3.75%
+Allahabad Bank,30 days to 45 days,3.75%
+Allahabad Bank,46 days to 90 days,3.75%
+Allahabad Bank,91 days to 180 days,4.75%
+Allahabad Bank,181 days to 269 days,5.25%
+Allahabad Bank,270 days to 364 days,5.25%
+Allahabad Bank,1 year,5.75%
+Allahabad Bank,1 year 1 day to 1 year 11 months 29 days,5.65%
+Allahabad Bank,2 years to 2 years 11 months 29 days,5.65%
+Andhra Bank,7 days to 14 days,4.00%
+Andhra Bank,15 days to 30 days,4.00%
+Andhra Bank,31 days to 45 days,4.25%
+Andhra Bank,46 days to 90 days,4.50%
+Andhra Bank,91 days to 120 days,5.00%
+Andhra Bank,121 days to 180 days,5.25%
+Andhra Bank,181 days to 364 days,5.50%
+Andhra Bank,444 days,5.85%
+Andhra Bank,445 days to 554 days,5.75%
+Andhra Bank,555 days,5.90%
+Bank of India,7 days to 14 days,4.00%
+Bank of India,15 days to 30 days,4.00%
+Bank of India,31 days to 45 days,4.00%
+Bank of India,46 days to 90 days,5.00%
+Bank of India,91 days to 120 days,5.00%
+Bank of India,121 days to 179 days,5.00%
+Bank of India,180 days to 364 days,5.50%
+Bank of India,1 year to 1 year 364 days,5.90%
+Bank of India,2 years to 2 years 364 days,5.80%
+Bank of India,3 years to 7 years 364 days,5.80%
+Bank of Maharashtra,7 days to 45 days,3.25%
+Bank of Maharashtra,46 days to 90 days,4.00%
+Bank of Maharashtra,91 days to 180 days,4.25%
+Bank of Maharashtra,181 days to 270 days,4.75%
+Bank of Maharashtra,271 days to 364 days,4.75%
+Bank of Maharashtra,1 year,5.50%
+Bank of Maharashtra,1 year 1 day to 2 years,5.50%
+Bank of Maharashtra,2 years 1 day to 3 years,5.50%
+Bank of Maharashtra,3 years 1 day to 10 years,5.50%
+Canara Bank,7 days to 14 days,4.00%
+Canara Bank,15 days to 30 days,4.00%
+Canara Bank,31 days to 45 days,4.00%
+Canara Bank,46 days to 60 days,4.50%
+Canara Bank,61 days to 90 days,4.50%
+Canara Bank,91 days to 120 days,4.50%
+Canara Bank,121 days to 179 days,4.50%
+Canara Bank,180 days to 269 days,5.10%
+Canara Bank,270 days to 364 days,5.10%
+Canara Bank,1 year,5.75%
+Central Bank of India,7 days to 14 days,3.70%
+Central Bank of India,15 days to 30 days,3.70%
+Central Bank of India,31 days to 45 days,3.70%
+Central Bank of India,46 days to 59 days,4.20%
+Central Bank of India,60 days to 90 days,4.20%
+Central Bank of India,91 days to 179 days,4.85%
+Central Bank of India,180 days to 270 days,5.10%
+Central Bank of India,271 days to 364 days,5.10%
+Central Bank of India,555 days,5.65%
+Central Bank of India,777 days,5.65%
+Punjab and Sind Bank,7 days to 14 days,4.00%
+Punjab and Sind Bank,15 days to 30 days,4.00%
+Punjab and Sind Bank,31 days to 45 days,4.00%
+Punjab and Sind Bank,46 days to 90 days,5.15%
+Punjab and Sind Bank,91 days to 120 days,5.15%
+Punjab and Sind Bank,121 days to 150 days,5.15%
+Punjab and Sind Bank,151 days to 179 days,5.25%
+Punjab and Sind Bank,180 days to 269 days,5.60%
+Punjab and Sind Bank,270 days to 364 days,5.75%
+Punjab and Sind Bank,1 year to 2 years,5.85%
+UCO Bank,7 days to 14 days,3.90%
+UCO Bank,15 days to 29 days,3.90%
+UCO Bank,30 days to 45 days,3.90%
+UCO Bank,46 days to 60 days,4.40%
+UCO Bank,61 days to 90 days,4.40%
+UCO Bank,91 days to 180 days,4.65%
+UCO Bank,181 days to 364 days,5.45%
+UCO Bank,1 year,5.75%
+UCO Bank,1 year 1 day to 2 years,5.75%
+UCO Bank,2 years 1 day to 3 years,5.75%
+Union Bank of India,7 days to 14 days,4.00%
+Union Bank of India,15 days to 30 days,4.00%
+Union Bank of India,31 days to 45 days,4.25%
+Union Bank of India,46 days to 90 days,4.50%
+Union Bank of India,91 days to 120 days,5.00%
+Union Bank of India,121 days to 180 days,5.25%
+Union Bank of India,181 days to 364 days,5.50%
+Union Bank of India,444 days,5.85%
+Union Bank of India,445 days to 554 days,5.75%
+Union Bank of India,555 days,5.90%
+United Bank of India,7 days to 45 days,3.50%
+United Bank of India,46 days to 90 days,4.50%
+United Bank of India,91 days to 179 days,4.50%
+United Bank of India,180 days to 270 days,5.00%
+United Bank of India,271 days to 364 days,5.25%
+United Bank of India,333 days,5.40%
+United Bank of India,444 days,5.75%
+United Bank of India,555 days,5.75%
+United Bank of India,1 year,5.75%
+United Bank of India,1 year 1 day to 2 years,5.75%
+Lakshmi Vilas Bank,7 days to 14 days,4.00%
+Lakshmi Vilas Bank,15 days to 30 days,4.25%
+Lakshmi Vilas Bank,31 days to 45 days,4.75%
+Lakshmi Vilas Bank,46 days to 90 days,5.25%
+Lakshmi Vilas Bank,91 days to 120 days,5.75%
+Lakshmi Vilas Bank,121 days to 150 days,6.00%
+Lakshmi Vilas Bank,151 days to 180 days,6.00%
+Lakshmi Vilas Bank,181 days to 364 days,6.15%
+Lakshmi Vilas Bank,365 days to 499 days,6.50%
+Lakshmi Vilas Bank,500 days,7.25%
+Equitas Small Finance Bank,7 days to 14 days,4.00%
+Equitas Small Finance Bank,15 days to 29 days,4.00%
+Equitas Small Finance Bank,30 days to 45 days,4.50%
+Equitas Small Finance Bank,46 days to 62 days,5.00%
+Equitas Small Finance Bank,63 days to 90 days,6.00%
+Equitas Small Finance Bank,91 days to 120 days,6.25%
+Equitas Small Finance Bank,121 days to 180 days,6.25%
+Equitas Small Finance Bank,181 days to 210 days,6.50%
+Equitas Small Finance Bank,211 days to 270 days,6.50%
+Equitas Small Finance Bank,271 days to 364 days,7.25%
+Jana Small Finance Bank,7 days to 14 days,5.00%
+Jana Small Finance Bank,15 days to 60 days,5.50%
+Jana Small Finance Bank,61 days to 90 days,6.25%
+Jana Small Finance Bank,91 days to 180 days,6.75%
+Jana Small Finance Bank,181 days to 364 days,7.00%
+Jana Small Finance Bank,1 year,7.50%
+Jana Small Finance Bank,1 year 1 day to 2 years,7.75%
+Jana Small Finance Bank,2 years 1 day to 3 years,8.00%
+Jana Small Finance Bank,3 years 1 day to 5 years,7.00%
+Jana Small Finance Bank,5 years,7.50%
+DHFL,12 months,8.50%
+DHFL,14 months,8.55%
+DHFL,24 months,8.75%
+DHFL,36 months,9.25%
+DHFL,40 months,9.25%
+DHFL,48 months,9.25%
+DHFL,60 months,9.25%
+DHFL,72 months,9.25%
+DHFL,120 months,9.25%
+Karnataka Bank,7 days to 45 days,3.50%
+Karnataka Bank,46 days to 90 days,5.00%
+Karnataka Bank,91 days to 180 days,5.70%
+Karnataka Bank,181 days to 364 days,5.70%
+Karnataka Bank,1 year to 2 years,5.90%
+Karnataka Bank,2 years to 5 years,5.80%
+Karnataka Bank,5 years 1 day to 10 years,5.80%
+DBS Bank,7 days,4.00%
+DBS Bank,8 days to 14 days,4.10%
+DBS Bank,15 days to 29 days,4.20%
+DBS Bank,30 days to 45 days,4.50%
+DBS Bank,46 days to 60 days,4.55%
+DBS Bank,61 days to 90 days,4.65%
+DBS Bank,91 days to 180 days,4.90%
+DBS Bank,181 days to 269 days,5.00%
+DBS Bank,270 days to 364 days,5.10%
+DBS Bank,376 days to 1 year 364 days,5.50%
+Jammu And Kashmir Bank,7 days to 30 days,3.50%
+Jammu And Kashmir Bank,31 days to 45 days,3.75%
+Jammu And Kashmir Bank,46 days to 90 days,4.50%
+Jammu And Kashmir Bank,91 days to 180 days,4.50%
+Jammu And Kashmir Bank,181 days to 270 days,5.00%
+Jammu And Kashmir Bank,271 days to 364 days,5.25%
+Jammu And Kashmir Bank,1 year to 1 year 364 days,5.70%
+Jammu And Kashmir Bank,2 years to 2 years 364 months,5.70%
+Jammu And Kashmir Bank,3 years to 5 years,5.50%
+Jammu And Kashmir Bank,5 years to 10 years,5.50%
+Ujjivan Small Finance Bank,7 days to 29 days,4.50%
+Ujjivan Small Finance Bank,30 days to 89 days,5.35%
+Ujjivan Small Finance Bank,90 days to 179 days,6.10%
+Ujjivan Small Finance Bank,180 days to 364 days,6.50%
+Ujjivan Small Finance Bank,735 days,7.50%
+Ujjivan Small Finance Bank,736 days to 798 days,7.50%
+Ujjivan Small Finance Bank,799 days,7.50%
+Ujjivan Small Finance Bank,800 days to 3 years,7.25%
+Ujjivan Small Finance Bank,1 year to 2 years,7.50%
+Ujjivan Small Finance Bank,2 years 1 day to 734 days,7.50%
+Fincare Small Finance Bank,7 days to 90 days,4.00%
+Fincare Small Finance Bank,91 days to 180 days,5.00%
+Fincare Small Finance Bank,181 days to 364 days,6.50%
+Fincare Small Finance Bank,12 months to 18 months,7.25%
+Fincare Small Finance Bank,18 months 1 day to 21 months,7.50%
+Fincare Small Finance Bank,21 months 1 day to 24 months,7.50%
+Fincare Small Finance Bank,24 months 1 day to 30 months,8.00%
+Fincare Small Finance Bank,30 months 1 day to 36 months,8.00%
+Fincare Small Finance Bank,36 months 1 day to 42 months,8.00%
+Fincare Small Finance Bank,42 months 1 day to 48 months,8.00%
+Karur Vysya Bank,7 days to 14 days,4.15%
+Karur Vysya Bank,15 days to 30 days,4.40%
+Karur Vysya Bank,31 days to 45 days,4.65%
+Karur Vysya Bank,46 days to 90 days,4.90%
+Karur Vysya Bank,91 days to 180 days,5.65%
+Karur Vysya Bank,181 days to 270 days,5.65%
+Karur Vysya Bank,271 days to 364 days,5.65%
+Karur Vysya Bank,1 year to 1 year 364 days,6.00%
+Karur Vysya Bank,2 years to 2 years 364 days,6.05%
+Karur Vysya Bank,3 years to 10 years,6.05%
+Yes Bank,7 days to 45 days,5.00%
+Yes Bank,46 days to 90 days,6.00%
+Yes Bank,3 months to 5 months 29 days,6.00%
+Yes Bank,6 months to 8 months 29 days,6.75%
+Yes Bank,9 months to 364 days,6.75%
+Yes Bank,18 months 8 days to 18 months 18 days,7.25%
+Yes Bank,1 year to 10 years,7.00%
+Yes Bank,2 years to 3 years,7.25%
+Syndicate Bank,7 days to 45 days,4.00%
+Syndicate Bank,46 days to 90 days,4.50%
+Syndicate Bank,91 days to 179 days,4.50%
+Syndicate Bank,180 days to 364 days,5.10%
+Syndicate Bank,13 months to 2 years,6.30%
+Syndicate Bank,1 year,5.75%
+Syndicate Bank,1 year 1 day to 1 year 364 days,5.75%
+Syndicate Bank,2 years to 2 years 364 days,5.75%
+Syndicate Bank,3 years to 10 years,5.70%
+Standard Chartered Bank,7 days to 14 days,4.25%
+Standard Chartered Bank,15 days to 29 days,4.50%
+Standard Chartered Bank,30 days to 44 days,5.00%
+Standard Chartered Bank,45 days to 59 days,5.50%
+Standard Chartered Bank,60 days to 89 days,5.50%
+Standard Chartered Bank,90 days to 120 days,6.25%
+Standard Chartered Bank,121 days to 180 days,6.45%
+Standard Chartered Bank,181 days to 210 days,6.45%
+Standard Chartered Bank,211 days to 364 days,6.45%
+Standard Chartered Bank,376 days to 17 months 29 days,6.40%
+Dhan Laxmi Bank,7 days to 14 days,3.50%
+Dhan Laxmi Bank,15 days to 45 days,3.50%
+Dhan Laxmi Bank,46 days to 90 days,4.50%
+Dhan Laxmi Bank,91 days to 179 days,5.00%
+Dhan Laxmi Bank,180 days to 364 days,5.75%
+Dhan Laxmi Bank,640 days,6.40%
+Dhan Laxmi Bank,1 year to 2 years,6.25%
+Dhan Laxmi Bank,2 years 1 day to 3 years,6.25%
+Dhan Laxmi Bank,3 years 1 day to 5 years,6.15%
+Dhan Laxmi Bank,5 years 1 day to 10 years,6.00%
+Bajaj Finance,12 months to 23 months,7.40%
+Bajaj Finance,24 months to 35 months,7.45%
+Bajaj Finance,36 months to 47 months,7.50%
+Bajaj Finance,48 months to 60 months,7.60%
+LIC Housing Finance,1 year,7.50%
